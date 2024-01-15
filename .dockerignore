@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+.git/
+.github/
+.dockerignore
+.gitignore
+docs/
+zarf/
+LICENSE
+makefile
+README.md
+.env
+.env.local
+.env.prod
